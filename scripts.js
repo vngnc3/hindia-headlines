@@ -1,5 +1,5 @@
-const intervalDuration = 5000; // Adjust this for headline change interval
-const transitionDuration = 500; // Adjust this for the duration of the unmounting
+const intervalDuration = 6000; // Adjust this for headline change interval
+const transitionDuration = 250; // Adjust this for the duration of the unmounting
 const delayBetweenHeadlines = 100; // Adjust this for delay between headlines appearing
 let shownIndices = [[], [], [], []]; // Store indices that have been shown
 
