@@ -1,0 +1,9 @@
+i need you to continue this static html/css/js page that displays news headlines on fullscreen, in a container div with flex divided into four columns. 
+
+at any moment, there will be four headlines on each of these columns called from javascript arrays imported with script tag on the body. 
+
+each group of headlines will be shown on the screen for a set amount of time.
+
+all the arrays have the same amount of news headlines. when the script runs out of headlines to display, loop back to the first one.
+
+please separate the css and js file for ease of maintenance. make it so that i can modify the duration of interval between switching the headlines.
